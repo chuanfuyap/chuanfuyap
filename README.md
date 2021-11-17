@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chuan Fu Yap, currently a postdoctoral researcher in the field of computational biology/bioinformatics
+- 👋 Hi, I’m [Chuan Fu Yap](https://chuanfuyap.github.io), currently a postdoctoral researcher in the field of computational biology/bioinformatics
 - 👀 I’m interested in machine learning, computational/mathematical modelling, bioinformatics.
 - 🌱 I’m currently learning time series and reinforcement learning.
 - 💞️ I’m looking to collaborate on machine learning or computational biology projects
